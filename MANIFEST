@@ -1,0 +1,27 @@
+blib/arch/.exists
+blib/arch/auto/ACME/Mantovani/.exists
+blib/bin/.exists
+blib/lib/ACME/.exists
+blib/lib/ACME/Mantovani.pm
+blib/lib/auto/ACME/Mantovani/.exists
+blib/man1/.exists
+blib/man3/.exists
+blib/script/.exists
+Changes
+lib/ACME/Mantovani.pm
+Makefile
+Makefile.PL
+MANIFEST			This list of files
+MANIFEST.bak
+MANIFEST.SKIP
+MYMETA.json
+MYMETA.yml
+pm_to_blib
+README
+t/00-load.t
+t/boilerplate.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
